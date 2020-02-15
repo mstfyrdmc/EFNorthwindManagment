@@ -1,0 +1,77 @@
+C:\Users\Developer\Desktop\EFNorthwindManagement\EFNorthwindManagement\bin\Debug\EFNorthwindManagement.exe.config
+C:\Users\Developer\Desktop\EFNorthwindManagement\EFNorthwindManagement\bin\Debug\EFNorthwindManagement.exe
+C:\Users\Developer\Desktop\EFNorthwindManagement\EFNorthwindManagement\bin\Debug\EFNorthwindManagement.pdb
+C:\Users\Developer\Desktop\EFNorthwindManagement\EFNorthwindManagement\bin\Debug\EntityFramework.dll
+C:\Users\Developer\Desktop\EFNorthwindManagement\EFNorthwindManagement\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Developer\Desktop\EFNorthwindManagement\EFNorthwindManagement\bin\Debug\EntityFramework.xml
+C:\Users\Developer\Desktop\EFNorthwindManagement\EFNorthwindManagement\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Developer\Desktop\EFNorthwindManagement\EFNorthwindManagement\obj\Debug\EFNorthwindManagement.csprojAssemblyReference.cache
+C:\Users\Developer\Desktop\EFNorthwindManagement\EFNorthwindManagement\obj\Debug\EFNorthwindManagement.Login.resources
+C:\Users\Developer\Desktop\EFNorthwindManagement\EFNorthwindManagement\obj\Debug\EFNorthwindManagement.Properties.Resources.resources
+C:\Users\Developer\Desktop\EFNorthwindManagement\EFNorthwindManagement\obj\Debug\EFNorthwindManagement.Views.Dashboard.resources
+C:\Users\Developer\Desktop\EFNorthwindManagement\EFNorthwindManagement\obj\Debug\EFNorthwindManagement.Views.ProductManagement.resources
+C:\Users\Developer\Desktop\EFNorthwindManagement\EFNorthwindManagement\obj\Debug\EFNorthwindManagement.csproj.GenerateResource.cache
+C:\Users\Developer\Desktop\EFNorthwindManagement\EFNorthwindManagement\obj\Debug\EFNorthwindManagement.csproj.CoreCompileInputs.cache
+C:\Users\Developer\Desktop\EFNorthwindManagement\EFNorthwindManagement\obj\Debug\EFNorthwindManagement.csproj.CopyComplete
+C:\Users\Developer\Desktop\EFNorthwindManagement\EFNorthwindManagement\obj\Debug\EFNorthwindManagement.exe
+C:\Users\Developer\Desktop\EFNorthwindManagement\EFNorthwindManagement\obj\Debug\EFNorthwindManagement.pdb
+C:\Users\mustafa.yardimci\Desktop\EFNorthwindManagement\EFNorthwindManagement\bin\Debug\EFNorthwindManagement.exe.config
+C:\Users\mustafa.yardimci\Desktop\EFNorthwindManagement\EFNorthwindManagement\obj\Debug\EFNorthwindManagement.exe
+C:\Users\mustafa.yardimci\Desktop\EFNorthwindManagement\EFNorthwindManagement\obj\Debug\EFNorthwindManagement.pdb
+C:\Users\mustafa.yardimci\Desktop\EFNorthwindManagement\EFNorthwindManagement\bin\Debug\EFNorthwindManagement.exe
+C:\Users\mustafa.yardimci\Desktop\EFNorthwindManagement\EFNorthwindManagement\bin\Debug\EFNorthwindManagement.pdb
+C:\Users\mustafa.yardimci\Desktop\EFNorthwindManagement\EFNorthwindManagement\bin\Debug\EntityFramework.dll
+C:\Users\mustafa.yardimci\Desktop\EFNorthwindManagement\EFNorthwindManagement\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mustafa.yardimci\Desktop\EFNorthwindManagement\EFNorthwindManagement\bin\Debug\EntityFramework.xml
+C:\Users\mustafa.yardimci\Desktop\EFNorthwindManagement\EFNorthwindManagement\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mustafa.yardimci\Desktop\EFNorthwindManagement\EFNorthwindManagement\obj\Debug\EFNorthwindManagement.csprojResolveAssemblyReference.cache
+C:\Users\mustafa.yardimci\Desktop\EFNorthwindManagement\EFNorthwindManagement\obj\Debug\EFNorthwindManagement.Login.resources
+C:\Users\mustafa.yardimci\Desktop\EFNorthwindManagement\EFNorthwindManagement\obj\Debug\EFNorthwindManagement.Properties.Resources.resources
+C:\Users\mustafa.yardimci\Desktop\EFNorthwindManagement\EFNorthwindManagement\obj\Debug\EFNorthwindManagement.Views.CatagoryManagement.resources
+C:\Users\mustafa.yardimci\Desktop\EFNorthwindManagement\EFNorthwindManagement\obj\Debug\EFNorthwindManagement.Views.Dashboard.resources
+C:\Users\mustafa.yardimci\Desktop\EFNorthwindManagement\EFNorthwindManagement\obj\Debug\EFNorthwindManagement.Views.ProductManagement.resources
+C:\Users\mustafa.yardimci\Desktop\EFNorthwindManagement\EFNorthwindManagement\obj\Debug\EFNorthwindManagement.csproj.GenerateResource.Cache
+C:\Users\Mustafa YARDIMCI\Desktop\EFNorthwindManagement_mustafa\EFNorthwindManagement\bin\Debug\EFNorthwindManagement.exe.config
+C:\Users\Mustafa YARDIMCI\Desktop\EFNorthwindManagement_mustafa\EFNorthwindManagement\bin\Debug\EFNorthwindManagement.exe
+C:\Users\Mustafa YARDIMCI\Desktop\EFNorthwindManagement_mustafa\EFNorthwindManagement\bin\Debug\EFNorthwindManagement.pdb
+C:\Users\Mustafa YARDIMCI\Desktop\EFNorthwindManagement_mustafa\EFNorthwindManagement\bin\Debug\EntityFramework.dll
+C:\Users\Mustafa YARDIMCI\Desktop\EFNorthwindManagement_mustafa\EFNorthwindManagement\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mustafa YARDIMCI\Desktop\EFNorthwindManagement_mustafa\EFNorthwindManagement\bin\Debug\EntityFramework.xml
+C:\Users\Mustafa YARDIMCI\Desktop\EFNorthwindManagement_mustafa\EFNorthwindManagement\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mustafa YARDIMCI\Desktop\EFNorthwindManagement_mustafa\EFNorthwindManagement\obj\Debug\EFNorthwindManagement.csprojAssemblyReference.cache
+C:\Users\Mustafa YARDIMCI\Desktop\EFNorthwindManagement_mustafa\EFNorthwindManagement\obj\Debug\EFNorthwindManagement.Login.resources
+C:\Users\Mustafa YARDIMCI\Desktop\EFNorthwindManagement_mustafa\EFNorthwindManagement\obj\Debug\EFNorthwindManagement.Properties.Resources.resources
+C:\Users\Mustafa YARDIMCI\Desktop\EFNorthwindManagement_mustafa\EFNorthwindManagement\obj\Debug\EFNorthwindManagement.Views.CatagoryManagement.resources
+C:\Users\Mustafa YARDIMCI\Desktop\EFNorthwindManagement_mustafa\EFNorthwindManagement\obj\Debug\EFNorthwindManagement.Views.Dashboard.resources
+C:\Users\Mustafa YARDIMCI\Desktop\EFNorthwindManagement_mustafa\EFNorthwindManagement\obj\Debug\EFNorthwindManagement.Views.ProductManagement.resources
+C:\Users\Mustafa YARDIMCI\Desktop\EFNorthwindManagement_mustafa\EFNorthwindManagement\obj\Debug\EFNorthwindManagement.csproj.GenerateResource.cache
+C:\Users\Mustafa YARDIMCI\Desktop\EFNorthwindManagement_mustafa\EFNorthwindManagement\obj\Debug\EFNorthwindManagement.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa YARDIMCI\Desktop\EFNorthwindManagement_mustafa\EFNorthwindManagement\obj\Debug\EFNorthwindManagement.csproj.CopyComplete
+C:\Users\Mustafa YARDIMCI\Desktop\EFNorthwindManagement_mustafa\EFNorthwindManagement\obj\Debug\EFNorthwindManagement.exe
+C:\Users\Mustafa YARDIMCI\Desktop\EFNorthwindManagement_mustafa\EFNorthwindManagement\obj\Debug\EFNorthwindManagement.pdb
+C:\Users\Mustafa YARDIMCI\Desktop\EFNorthwindManagement_mustafa\EFNorthwindManagement\obj\Debug\EFNorthwindManagement.Views.TedarikciManagement.resources
+C:\Users\Mustafa YARDIMCI\Desktop\EFNorthwindManagement_mustafa\EFNorthwindManagement\obj\Debug\EFNorthwindManagement.Views.KargoFirmalarıManagement.resources
+C:\Users\Mustafa YARDIMCI\Desktop\EFNorthwindManagement_mustafa\EFNorthwindManagement\obj\Debug\EFNorthwindManagement.Views.CustomersManagement.resources
+C:\Users\Mustafa YARDIMCI\Desktop\EFNorthwindManagement_mustafa\EFNorthwindManagement\obj\Debug\EFNorthwindManagement.Views.OrdersManagement.resources
+C:\Users\Mustafa YARDIMCI\Desktop\yazılım\NortWindManagementDataFirst\EFNorthwindManagement_mustafa\EFNorthwindManagement\bin\Debug\EFNorthwindManagement.exe.config
+C:\Users\Mustafa YARDIMCI\Desktop\yazılım\NortWindManagementDataFirst\EFNorthwindManagement_mustafa\EFNorthwindManagement\bin\Debug\EFNorthwindManagement.exe
+C:\Users\Mustafa YARDIMCI\Desktop\yazılım\NortWindManagementDataFirst\EFNorthwindManagement_mustafa\EFNorthwindManagement\bin\Debug\EFNorthwindManagement.pdb
+C:\Users\Mustafa YARDIMCI\Desktop\yazılım\NortWindManagementDataFirst\EFNorthwindManagement_mustafa\EFNorthwindManagement\bin\Debug\EntityFramework.dll
+C:\Users\Mustafa YARDIMCI\Desktop\yazılım\NortWindManagementDataFirst\EFNorthwindManagement_mustafa\EFNorthwindManagement\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mustafa YARDIMCI\Desktop\yazılım\NortWindManagementDataFirst\EFNorthwindManagement_mustafa\EFNorthwindManagement\bin\Debug\EntityFramework.xml
+C:\Users\Mustafa YARDIMCI\Desktop\yazılım\NortWindManagementDataFirst\EFNorthwindManagement_mustafa\EFNorthwindManagement\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mustafa YARDIMCI\Desktop\yazılım\NortWindManagementDataFirst\EFNorthwindManagement_mustafa\EFNorthwindManagement\obj\Debug\EFNorthwindManagement.csprojAssemblyReference.cache
+C:\Users\Mustafa YARDIMCI\Desktop\yazılım\NortWindManagementDataFirst\EFNorthwindManagement_mustafa\EFNorthwindManagement\obj\Debug\EFNorthwindManagement.Login.resources
+C:\Users\Mustafa YARDIMCI\Desktop\yazılım\NortWindManagementDataFirst\EFNorthwindManagement_mustafa\EFNorthwindManagement\obj\Debug\EFNorthwindManagement.Properties.Resources.resources
+C:\Users\Mustafa YARDIMCI\Desktop\yazılım\NortWindManagementDataFirst\EFNorthwindManagement_mustafa\EFNorthwindManagement\obj\Debug\EFNorthwindManagement.Views.CatagoryManagement.resources
+C:\Users\Mustafa YARDIMCI\Desktop\yazılım\NortWindManagementDataFirst\EFNorthwindManagement_mustafa\EFNorthwindManagement\obj\Debug\EFNorthwindManagement.Views.CustomersManagement.resources
+C:\Users\Mustafa YARDIMCI\Desktop\yazılım\NortWindManagementDataFirst\EFNorthwindManagement_mustafa\EFNorthwindManagement\obj\Debug\EFNorthwindManagement.Views.Dashboard.resources
+C:\Users\Mustafa YARDIMCI\Desktop\yazılım\NortWindManagementDataFirst\EFNorthwindManagement_mustafa\EFNorthwindManagement\obj\Debug\EFNorthwindManagement.Views.KargoFirmalarıManagement.resources
+C:\Users\Mustafa YARDIMCI\Desktop\yazılım\NortWindManagementDataFirst\EFNorthwindManagement_mustafa\EFNorthwindManagement\obj\Debug\EFNorthwindManagement.Views.OrdersManagement.resources
+C:\Users\Mustafa YARDIMCI\Desktop\yazılım\NortWindManagementDataFirst\EFNorthwindManagement_mustafa\EFNorthwindManagement\obj\Debug\EFNorthwindManagement.Views.ProductManagement.resources
+C:\Users\Mustafa YARDIMCI\Desktop\yazılım\NortWindManagementDataFirst\EFNorthwindManagement_mustafa\EFNorthwindManagement\obj\Debug\EFNorthwindManagement.Views.TedarikciManagement.resources
+C:\Users\Mustafa YARDIMCI\Desktop\yazılım\NortWindManagementDataFirst\EFNorthwindManagement_mustafa\EFNorthwindManagement\obj\Debug\EFNorthwindManagement.csproj.GenerateResource.cache
+C:\Users\Mustafa YARDIMCI\Desktop\yazılım\NortWindManagementDataFirst\EFNorthwindManagement_mustafa\EFNorthwindManagement\obj\Debug\EFNorthwindManagement.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa YARDIMCI\Desktop\yazılım\NortWindManagementDataFirst\EFNorthwindManagement_mustafa\EFNorthwindManagement\obj\Debug\EFNorthwindManagement.csproj.CopyComplete
+C:\Users\Mustafa YARDIMCI\Desktop\yazılım\NortWindManagementDataFirst\EFNorthwindManagement_mustafa\EFNorthwindManagement\obj\Debug\EFNorthwindManagement.exe
+C:\Users\Mustafa YARDIMCI\Desktop\yazılım\NortWindManagementDataFirst\EFNorthwindManagement_mustafa\EFNorthwindManagement\obj\Debug\EFNorthwindManagement.pdb
